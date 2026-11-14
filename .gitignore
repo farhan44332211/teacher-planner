@@ -1,0 +1,11 @@
+# Exclude heavy listing media as requested (Images & Videos)
+etsy_media/
+
+# Build caches & temp working folders
+_work/
+_work_pdf/
+_test_chrome_profile/
+__pycache__/
+*.log
+.DS_Store
+Thumbs.db
